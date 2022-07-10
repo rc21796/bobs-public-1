@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "473fa44f5d8a837e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gails Info/Friday July 8th 22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3509725a0336d85",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e83b09bbcd424b7d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4adf70e3565d7851",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a7322297d41c4d08",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "304cf8b11329a5cb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gails Info/Friday July 8th 22.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "473fa44f5d8a837e",
+  "lastOpenFiles": [
+    "Gails Info/Friday July 8th 22.md",
+    "Gails Info/Fr, Jul 8, 2022, 7.48 pm.md",
+    "Gails Info/note on  Fr, Jul 8, 2022, 7.15 pm.md",
+    "Gails Info/Gail's Blood Pressure.md",
+    "Testing Folder/Time test.md",
+    "Templates/time.md",
+    "Templates/time.md",
+    "Testing Folder/time.md",
+    "Testing Folder/Thumbnails test.md",
+    "Excalidraw/Drawing 2022-07-08 17.21.58.excalidraw.md"
+  ]
+}

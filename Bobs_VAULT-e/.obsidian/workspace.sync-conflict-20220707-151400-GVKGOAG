@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92662209eac9f81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "YMCA/YMCA Machine Settings.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29299722bb639a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f841ec4d0fa9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59056e359892fb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c0b4fdd5026afc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b72cc0fe60de917f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36851e92f70dbc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff69475d4712877",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "YMCA/YMCA Machine Settings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f92662209eac9f81",
+  "lastOpenFiles": [
+    "YMCA/YMCA Machine Settings.md",
+    "Dr Christian/Image embed.md",
+    "Dr Christian/SSE Android encryption.md",
+    "Kanban - Bookmarks.md",
+    "Epub to markdown Conversion.md",
+    "Epub Reading.md",
+    "Testing Folder/Note to Mario regarding  PDFs.md",
+    "Testing Folder/drag and drop.md",
+    "Dr Christian/Self Regional Info.md",
+    "Dr Christian/After Surgery.md"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65707e3529f0611",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Tips and Tricks/New testing - 01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db5ee8b8ccd351a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87baba5a236cf61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e904859e0f2e2ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "841b427c698e18c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "github setup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11be7057452acb32",
+    "type": "split",
+    "children": [
+      {
+        "id": "6724fe7030a371c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a211d9c6f91a5597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Tips and Tricks/New testing - 01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a65707e3529f0611",
+  "lastOpenFiles": [
+    "Obsidian Tips and Tricks/New testing - 01.md",
+    "Obsidian Tips and Tricks/Obsidian sync to Github.md",
+    "Web Browsing/Browsing History - Vivaldi.md",
+    "Gails Info/Gail's Blood Pressure.md",
+    "Obsidian Tips and Tricks/Align Images.md",
+    "Obsidian Tips and Tricks/Obsidian To-Do List.md",
+    "Github/Github Desktop/Github Desktop Install.md",
+    "Dell Notebook/Dell Notebook Warranty Renew.md",
+    "Note Taking General Info/Notion/Untitled-123.md",
+    "PDF-files/YMCA_machine_settings1.pdf"
+  ]
+}

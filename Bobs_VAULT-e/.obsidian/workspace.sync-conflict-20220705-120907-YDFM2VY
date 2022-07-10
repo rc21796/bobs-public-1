@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf37f5f78249747",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Tips and Tricks/Obsidian To-Do List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd802306fd086a68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52e0a3eaf4841126",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9104bc69943ca10f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8f751365205e07b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bc9fddd5a473d51c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "aa89223a03fc18f8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian Tips and Tricks/Obsidian To-Do List.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ebf37f5f78249747",
+  "lastOpenFiles": [
+    "Obsidian Tips and Tricks/Obsidian To-Do List.md",
+    "Obsidian Tips and Tricks/Obsidian Luncher options.md",
+    "Obsidian Tips and Tricks/Obsidian Cheat Sheet.md",
+    "2022-07-05.md",
+    "Obsidian Tips and Tricks/Calendar.md",
+    "Testing Folder/drag and drop.md",
+    "Testing Folder/Thumbnails test.md",
+    "Dr Christian/After Surgery.md",
+    "Testing Folder/Obsidian Cheat Sheet.md",
+    "Testing Folder/Table Testing.md"
+  ]
+}

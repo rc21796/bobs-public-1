@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c82144e056bfee8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Tips and Tricks/Obsidian Luncher options.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3f6f779419aec51",
+    "type": "split",
+    "children": [
+      {
+        "id": "facb4c514537bb19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aaf62b0cf5b7b64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b038ea0eeb9ea49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#After",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195.0078125
+  },
+  "right": {
+    "id": "02b6c38ce3cffd45",
+    "type": "split",
+    "children": [
+      {
+        "id": "545b8815dba1cda1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ad950030a5aa98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Tips and Tricks/Obsidian Luncher options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce695f32ed2d2d5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff54c3d456d4df7b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63b410d690cdde9e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 141.5,
+    "collapsed": true
+  },
+  "active": "8c82144e056bfee8",
+  "lastOpenFiles": [
+    "Obsidian Tips and Tricks/Obsidian Luncher options.md",
+    "Gails Info/Gail's Blood Pressure.md",
+    "Obsidian Tips and Tricks/Obsidian To-Do List.md",
+    "Obsidian Tips and Tricks/Obsidian How to.md",
+    "Obsidian Tips and Tricks/Obsidian Cheat Sheet.md",
+    "Obsidian Tips and Tricks/Kanban Demo Note.md",
+    "Obsidian Tips and Tricks/Shower.md",
+    "Obsidian Tips and Tricks/Kanban demo.md",
+    "Gails Info/Attachment test.md",
+    "Testing Folder/drag and drop.md"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "405258b15d410335",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6917e432a375947",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Friends/Brian Collins.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e617b2c93751c86",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ce8db90d2e243f2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0395fa48cee37f4d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b9dc05a6bb896219",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4d7d595ad3d12a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Friends/Brian Collins.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c6917e432a375947",
+  "lastOpenFiles": [
+    "Friends/Brian Collins.md",
+    "0-Inbox/Bill of Rights.md",
+    "0-Inbox/Pass Guardian.md",
+    "0-Inbox/Permanent Wood Foundations.md",
+    "Dr Christian/Untitled.md",
+    "Dr Christian/Dr Christian - Knee Surgery.md",
+    "0-Inbox/Greenwood CPW electric.md",
+    "Testing Folder/Audio Recordings.md",
+    "CherryTree Notes/Untitled 1.md",
+    "CherryTree Notes/Flameshot Settings.md"
+  ]
+}
